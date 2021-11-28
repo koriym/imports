@@ -1,0 +1,26 @@
+{
+  "$schema": "https://alps-io.github.io/schemas/alps.json",
+  "alps": {
+    "version": "1.0",
+    "descriptor": [
+      {
+        "id": "defaultValue",
+        "def": "https://schema.org/defaultValue",
+        "name": "defaultValue",
+        "type": "semantic"
+      },
+      {
+        "id": "defaultValueText",
+        "def": "https://schema.org/defaultValue",
+        "name": "defaultValue",
+        "type": "semantic"
+      },
+      {
+        "id": "defaultValueThing",
+        "def": "https://schema.org/defaultValue",
+        "name": "defaultValue",
+        "type": "semantic"
+      }
+    ]
+  }
+}

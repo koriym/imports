@@ -1,0 +1,26 @@
+{
+  "$schema": "https://alps-io.github.io/schemas/alps.json",
+  "alps": {
+    "version": "1.0",
+    "descriptor": [
+      {
+        "id": "citation",
+        "def": "https://schema.org/citation",
+        "name": "citation",
+        "type": "semantic"
+      },
+      {
+        "id": "citationCreativeWork",
+        "def": "https://schema.org/citation",
+        "name": "citation",
+        "type": "semantic"
+      },
+      {
+        "id": "citationText",
+        "def": "https://schema.org/citation",
+        "name": "citation",
+        "type": "semantic"
+      }
+    ]
+  }
+}
